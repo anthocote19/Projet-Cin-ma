@@ -1,1 +1,1 @@
-# Projet-Cin-ma
+Ce projet à pour but de représenter un site de cinéma comme UGC(par exemple) et ce site doit contenir plusieurs films qui vont permettre à l'utilisateur de naviguer sur ce site pour voir les films qui l'intéressent
